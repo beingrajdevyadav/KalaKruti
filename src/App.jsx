@@ -1,5 +1,6 @@
 
 import './App.css'
+import Home from './components/Home'
 
 function App() {
   
@@ -7,7 +8,7 @@ function App() {
   return (
     <>
      <h1>KalaKruti</h1>
-
+<Home/>
     </>
   )
 }
